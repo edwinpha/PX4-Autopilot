@@ -90,6 +90,7 @@ if(gz-transport_FOUND)
 
 	set(gz_worlds
 		default
+		aruco
 		windy
 		baylands
   		lawn
